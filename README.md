@@ -1,0 +1,2 @@
+# Julia-Basics
+In this repository, I learn Julia lang using Ben Lauwens and Allen Downey's **Think Julia: How to Think Like a Computer Scientist** in [Ben Lauwens's website](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html).
